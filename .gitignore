@@ -1,0 +1,24 @@
+# Ignore hidden files
+.*
+**/.*
+
+# Ignore backup files
+*.bak
+*-bak
+*.bck
+_saved_*.sch
+_autosave*
+
+# Ignore generaated files
+out/*
+
+
+# Ignore cache files
+*-cache.*
+
+# Ignore Netlist file
+*.net
+
+!.gitignore
+!.gitattributes
+!.gitkeep
