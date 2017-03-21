@@ -28,7 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:carte_TDB_G-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -38,8 +37,8 @@ Title "Support Voyants TDB"
 Date ""
 Rev "1"
 Comp "EPSA"
-Comment1 "Validée par XXX"
-Comment2 "Vérifiée par XXX"
+Comment1 "Validée par PJR"
+Comment2 "Vérifiée par JVN"
 Comment3 "Concue par VVE"
 Comment4 ""
 $EndDescr
